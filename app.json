@@ -44,7 +44,7 @@
       "supportsTablet": true,
       "bundleIdentifier": "com.optic.appdeliveryreactnative-master",
       "config": {
-        "googleMapsApiKey": "AIzaSyAG72w7kiJ7nC4O0BSW3QnUWA-NRp2p_fQ"
+        "googleMapsApiKey": ""
       },
       "infoPlist": {
         "UIBackgroundModes": [
@@ -61,7 +61,7 @@
       "package": "com.optic.appdeliveryreactnative-master",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyAG72w7kiJ7nC4O0BSW3QnUWA-NRp2p_fQ"
+          "apiKey": ""
         }
       },
       "permissions": [
